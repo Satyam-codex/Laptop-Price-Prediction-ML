@@ -4,23 +4,25 @@ Machine learning project for predicting laptop prices using regression models wi
 The objective of this project is to implement, analyze, and compare various Linear Regression models to predict laptop prices based on multiple hardware and software features.
 This assignment helps in understanding Simple, Multiple, Polynomial, and Regularized Regression models along with proper evaluation and interpretation.
 
-Dataset Description
+Dataset Description:-
 The dataset contains specifications of laptops along with their prices.
 It includes multiple input features and one continuous target variable.
 
 Features Used:
-Company
-TypeName
-Inches
-ScreenResolution
-CPU
-RAM
-Memory
-GPU
-Operating System
-Weight
-Target Variable:
+Company,
+TypeName,
+Inches,
+ScreenResolution,
+CPU,
+RAM,
+Memory,
+GPU,
+Operating System,
+Weight,
+
+Target Variable:-
 Price
+
 The dataset satisfies the requirement of having multiple input features and a continuous output variable, as specified in the assignment.
 
 Tools & Technologies
