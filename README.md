@@ -34,18 +34,22 @@ Seaborn
 Scikit-learn
 
 Methodology
-Part A: Exploratory Data Analysis (EDA)
+
+Part A: Exploratory Data Analysis (EDA):-
 Loaded the dataset and examined its structure.
 Generated summary statistics for numerical features.
 Checked for missing values and handled unnecessary columns.
 Visualized feature distributions.
 Created a correlation heatmap to understand relationships between variables.
-Part B: Simple Linear Regression
+
+Part B: Simple Linear Regression :-
 Selected a single feature (e.g., RAM or Inches).
 Built a simple linear regression model.
 Plotted the regression line.
 Interpreted the slope and intercept.
-Part C: Multiple Linear Regression
+
+
+Part C: Multiple Linear Regression:-
 Used multiple features to predict laptop prices.
 Trained a Multiple Linear Regression model.
 Evaluated model performance using:
@@ -55,29 +59,29 @@ R² Score
 Interpreted regression coefficients.
 
 
-Part D: Polynomial Regression
+Part D: Polynomial Regression:-
 Applied Polynomial Regression to capture non-linear relationships.
 Compared Linear and Polynomial Regression results.
 Observed improvement in prediction accuracy for non-linear patterns.
 
 
-Part E: Regularization Techniques
+Part E: Regularization Techniques:-
 Applied Ridge Regression and Lasso Regression.
 Compared coefficients with linear regression.
 Discussed feature selection and overfitting control.
 
-Part F: Model Diagnostics
+Part F: Model Diagnostics:-
 Plotted residuals vs predicted values.
 Checked regression assumptions such as linearity and homoscedasticity.
 
 
 
-Results & Observations
+Results & Observations:-
 Multiple Linear Regression performed better than Simple Linear Regression.
 Polynomial Regression captured non-linear relationships more effectively.
 Ridge and Lasso regression helped in reducing overfitting.
 RAM, CPU, and Storage were observed to be strong predictors of laptop price.
 
-conclusion
+conclusion:-
 This project provided hands-on experience with different linear regression models and demonstrated how regression techniques can be used for real-world price prediction problems.
 The assignment improved understanding of model selection, evaluation, and interpretation, fulfilling all the objectives of the Linear Regression Lab. 
