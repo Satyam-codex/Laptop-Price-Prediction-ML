@@ -114,8 +114,11 @@ This project provided hands-on experience with different linear regression model
 
 The assignment improved understanding of model selection, evaluation, and interpretation, successfully fulfilling all objectives of the Linear Regression Lab.
 
----
+--
 
 ## Contributors
-This project was completed as a collaborative academic assignment.
+This project was developed as part of a collaborative academic assignment, with contributions from all listed members.
+- Satyam Gupta
+- Anand Shukla
+- Suraj Patel
 
